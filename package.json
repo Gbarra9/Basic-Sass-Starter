@@ -1,0 +1,19 @@
+{
+  "name": "sass_starter_pack",
+  "version": "1.0.0",
+  "description": "sass starter",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Gene",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.24.5",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1"
+  },
+  "dependencies": {
+    "npm": "^6.1.0"
+  }
+}
